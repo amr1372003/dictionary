@@ -1,0 +1,30 @@
+hello:A greeting or expression of goodwill.
+world:The earth, together with all of its countries and peoples.
+apple:A round fruit with red or yellow skin.
+banana:A long curved fruit with a yellow skin 🌞.
+trie:A type of search tree used for locating specific keys from within a set.
+data:Facts and statistics collected together for reference or analysis.
+structure:The arrangement of and relations between the parts or elements of something complex.
+alpha:The name of the first letter of the Greek alphabet (Α,  α), followed by beta. In the Latin alphabet it is the predecessor to A.
+gamma:The third letter of the Greek alphabet (Γ, γ), preceded by beta (Β, β) and followed by delta, (Δ, δ).
+dd:Day, in two-digit, numeric format, as in dd/mm/yyyy.
+sea:A large body of salt water.start:The beginning of an activity.
+start:The beginning of an activity.
+end:The terminal point of something in space or time.
+play:Activity for amusement only, especially among the young.
+swim:An act or instance of swimming.
+golf:A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.
+code:A short symbol, often with little relation to the item it represents.
+name:Any nounal word or phrase which indicates a particular person, place, class, or thing.
+none:A person without religious affiliation.
+mm:An expression used to show contentment for something.
+dive:A jump or plunge into water.
+enter:The "Enter" key on a computer keyboard.
+welcome:The act of greeting someone’s arrival, especially by saying "Welcome!"; reception.
+nah:No
+cat:An animal of the family Felidae.
+a:The name of the Latin script letter A/a.
+var:A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.
+k:A kilobyte (more formally KB or kB).
+beta:The second letter of the Greek alphabet (Β,  β), preceded by alpha (Α,  α) and followed by gamma, (Γ,  γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the English words have and vase.
+champion:An ongoing winner in a game or contest.
